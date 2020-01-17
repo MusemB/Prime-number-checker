@@ -17,7 +17,7 @@ assume that <a href="https://www.codecogs.com/eqnedit.php?latex=a,b&space;\in&sp
 a set of prime numbers <a href="https://www.codecogs.com/eqnedit.php?latex=(\mathbb{P})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\mathbb{P})" title="(\mathbb{P})" /></a>
 is defined to contain natural numbers that have the following property:
 
-####a prime number is only divisible by itself and 1.
+#### a prime number is only divisible by itself and 1.
 
 let a be s.t  <a href="https://www.codecogs.com/eqnedit.php?latex=2&space;\leq&space;a&space;\leq&space;\sqrt&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2&space;\leq&space;a&space;\leq&space;\sqrt&space;x" title="2 \leq a \leq \sqrt x" /></a>
 
