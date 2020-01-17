@@ -35,7 +35,7 @@ let <a href="https://www.codecogs.com/eqnedit.php?latex=s&space;=&space;\sqrt&sp
 
 which results in <a href="https://www.codecogs.com/eqnedit.php?latex=x&space;<&space;k*s" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x&space;<&space;k*s" title="x < k*s" /></a>
 
-However, this contrudicts our assumption stated that <a href="https://www.codecogs.com/eqnedit.php?>, which must mean that 
+However, this contrudicts our assumption stated that <a href="https://www.codecogs.com/eqnedit.php?, which must mean that 
 
 at least one of the factors
   
