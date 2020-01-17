@@ -12,12 +12,14 @@ this is becuase there are no two natural numbers that are >x^(1/2) and multiply 
 here is my proof of it:
 
 ## definiton of a prime:
-assume that <a href="https://www.codecogs.com/eqnedit.php?latex=a,b&space;\in&space;\mathbb{Z}|a\;&space;or\;b>\sqrt&space;x&space;\;&space;and&space;\;&space;a*b=x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a,b&space;\in&space;\mathbb{Z}|a\;&space;or\;b>\sqrt&space;x&space;\;&space;and&space;\;&space;a*b=x" title="a,b \in \mathbb{Z}|a\; or\;b>\sqrt x \; and \; a*b=x" /></a>
+
 
 a set of prime numbers <a href="https://www.codecogs.com/eqnedit.php?latex=(\mathbb{P})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\mathbb{P})" title="(\mathbb{P})" /></a>
 is defined to contain natural numbers that have the following property:
 
 #### a prime number is only divisible by itself and 1.
+
+assume that <a href="https://www.codecogs.com/eqnedit.php?latex=a,b\in\mathbb{N}\;&space;|&space;\;&space;a\;&space;or\;&space;b>\sqrt&space;x&space;\;&space;and\;&space;a*b=x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a,b\in\mathbb{N}\;&space;|&space;\;&space;a\;&space;or\;&space;b>\sqrt&space;x&space;\;&space;and\;&space;a*b=x" title="a,b\in\mathbb{N}\; | \; a\; or\; b>\sqrt x \; and\; a*b=x" /></a>
 
 let a be s.t  <a href="https://www.codecogs.com/eqnedit.php?latex=2&space;\leq&space;a&space;\leq&space;\sqrt&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2&space;\leq&space;a&space;\leq&space;\sqrt&space;x" title="2 \leq a \leq \sqrt x" /></a>
 
