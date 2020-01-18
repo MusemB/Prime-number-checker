@@ -7,7 +7,7 @@ of the factors of x map between values on the two intervals of <a href="https://
 
 what this means is that since the factors of a non prime number are paired,
 we can look at the smaller factors that reside on the interval of <a href="https://www.codecogs.com/eqnedit.php?latex=2\leq\sqrt&space;x." target="_blank"><img src="https://latex.codecogs.com/gif.latex?2\leq\sqrt&space;x." title="2\leq\sqrt x." /></a>
-this is becuase there are no two natural numbers that are >x^(1/2) and multiply to x
+this is becuase there are no two natural numbers, where one of them is >x^(1/2) and multiply to x
 
 here is my proof of it:
 
