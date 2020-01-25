@@ -7,26 +7,38 @@ of the factors of x map between values on the two intervals of <a href="https://
 
 what this means is that since the factors of a non prime number are paired,
 we can look at the smaller factors that reside on the interval of <a href="https://www.codecogs.com/eqnedit.php?latex=2\leq\sqrt&space;x." target="_blank"><img src="https://latex.codecogs.com/gif.latex?2\leq\sqrt&space;x." title="2\leq\sqrt x." /></a>
-this is becuase there are no two integers that are >x^(1/2) and multiply to x
+this is becuase there are no two natural numbers, where one of them is >x^(1/2) and multiply to x
 
 here is my proof of it:
 
 ## definiton of a prime:
+
+
 a set of prime numbers <a href="https://www.codecogs.com/eqnedit.php?latex=(\mathbb{P})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\mathbb{P})" title="(\mathbb{P})" /></a>
-is defined to contain natural numbwers that have the property 
-a prime number is only divisible by itself and 1.
+is defined to contain natural numbers that have the following property:
 
-let a be s.t <a href="https://www.codecogs.com/eqnedit.php?latex=2&space;\leq&space;a&space;\leq&space;\sqrt&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2&space;\leq&space;a&space;\leq&space;\sqrt&space;x" title="2 \leq a \leq \sqrt x" /></a>
+#### a prime number is only divisible by itself and 1.
 
-let b be s.t <a href="https://www.codecogs.com/eqnedit.php?latex=\sqrt&space;x&space;\leq&space;b&space;\leq&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sqrt&space;x&space;\leq&space;b&space;\leq&space;x" title="\sqrt x \leq b \leq x" /></a>
+assume that  <a href="https://www.codecogs.com/eqnedit.php?latex=a,b\in\mathbb{N}\;&space;|&space;\;&space;a\;&space;or\;&space;b>\sqrt&space;x&space;\;&space;and\;&space;a*b=x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a,b\in\mathbb{N}\;&space;|&space;\;&space;a\;&space;or\;&space;b>\sqrt&space;x&space;\;&space;and\;&space;a*b=x" title="a,b\in\mathbb{N}\; | \; a\; or\; b>\sqrt x \; and\; a*b=x" /></a>
+
+let a be s.t  <a href="https://www.codecogs.com/eqnedit.php?latex=2&space;\leq&space;a&space;\leq&space;\sqrt&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2&space;\leq&space;a&space;\leq&space;\sqrt&space;x" title="2 \leq a \leq \sqrt x" /></a>
+
+let b be s.t  <a href="https://www.codecogs.com/eqnedit.php?latex=\sqrt&space;x&space;<b\leq&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sqrt&space;x&space;<b\leq&space;x" title="\sqrt x <b\leq x" /></a>
 
 if x is non-prime, then <a href="https://www.codecogs.com/eqnedit.php?latex=a*b&space;=&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a*b&space;=&space;x" title="a*b = x" /></a>
 
-let c be some int > 0
+let <a href="https://www.codecogs.com/eqnedit.php?latex=c\in\mathbb{N}|c>1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?c\in\mathbb{N}|c>1" title="c\in\mathbb{N}|c>1" /></a>
 
-let k = x^(1/2)+c
-let s = x^(1/2)
+let <a href="https://www.codecogs.com/eqnedit.php?latex=k=\sqrt&space;x&space;&plus;c" target="_blank"><img src="https://latex.codecogs.com/gif.latex?k=\sqrt&space;x&space;&plus;c" title="k=\sqrt x +c" /></a>
 
-k*s = x+c*x^(1/2)
-therefore x < k*s
+let <a href="https://www.codecogs.com/eqnedit.php?latex=s&space;=&space;\sqrt&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?s&space;=&space;\sqrt&space;x" title="s = \sqrt x" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=k*s&space;=&space;x&plus;c(\sqrt&space;x&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?k*s&space;=&space;x&plus;c(\sqrt&space;x&space;)" title="k*s = x+c(\sqrt x )" /></a>
+
+which results in <a href="https://www.codecogs.com/eqnedit.php?latex=x&space;<&space;k*s" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x&space;<&space;k*s" title="x < k*s" /></a>
+
+However, this contrudicts our assumption stated that <a href="https://www.codecogs.com/eqnedit.php?, which must mean that 
+
+at least one of the factors
+  
 QED.
