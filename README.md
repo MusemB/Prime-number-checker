@@ -21,8 +21,7 @@ is defined to contain natural numbers that have the following property:
 
 assume that <a href="https://www.codecogs.com/eqnedit.php?latex=a,b\in\mathbb{N}\;&space;|&space;\;&space;a\oplus&space;b>\sqrt&space;x&space;\;&space;and\;&space;a*b=x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a,b\in\mathbb{N}\;&space;|&space;\;&space;a\oplus&space;b>\sqrt&space;x&space;\;&space;and\;&space;a*b=x" title="a,b\in\mathbb{N}\; | \; a\oplus b>\sqrt x \; and\; a*b=x" /></a>
 
-let a be s.t  <a href="https://www.codecogs.com/eqnedit.php?latex=2&space;\leq&space;a&space;\leq&space;\sqrt&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2&space;\leq&space;a&space;\leq&space;\sqrt&space;x" title="2 \leq a \leq \sqrt x" /></a>
-
+let a be s.t  <a href="https://www.codecogs.com/eqnedit.php?latex=a&space;\leq&space;b\leq&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a&space;\leq&space;b\leq&space;x" title="a \leq b\leq x" /></a>
 let b be s.t  <a href="https://www.codecogs.com/eqnedit.php?latex=\sqrt&space;x&space;<b\leq&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sqrt&space;x&space;<b\leq&space;x" title="\sqrt x <b\leq x" /></a>
 
 if x is non-prime, then <a href="https://www.codecogs.com/eqnedit.php?latex=a*b&space;=&space;x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a*b&space;=&space;x" title="a*b = x" /></a>
